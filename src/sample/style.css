@@ -1,0 +1,9 @@
+.list-cell:filled:selected .label{
+    -fx-text-fill: white;
+}
+
+.list-cell:filled:selected .combo-box{
+    -fx-prompt-text-fill: white;
+    -fx-text-fill: white;
+}
+
